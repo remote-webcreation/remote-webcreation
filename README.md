@@ -1,8 +1,8 @@
-![Remote-Webcreation Logo](./pictures/Logo_light.png)
+![Remote-Webcreation Logo](./pictures/RWC_Logooo.png)
 
-# Welcome to remote-webcreation  
+## Hi there and Welcome!
 
-> ###### Hi there! I'm Mandy, a passionate aspiring web developer and the face behind remote-webcreation.  
+> #### I'm Mandy, a passionate aspiring web developer and the face behind Remote-WebCREATION.  
 
 ---
 [Visit my GitHub Profile >](https://github.com/remote-webcreation)  
@@ -19,19 +19,9 @@
 
 My current focus is on building a solid foundation in front-end development. I've been working extensively with:
 
-*   **HTML:** Crafting the structure and content of web pages. I'm comfortable using semantic HTML5 elements to create accessible and well-organized layouts.
+*   **HTML:** Crafting the structure and content of web pages. Practising accessible and well-organized layouts.
 *   **CSS:** Styling web pages to create visually appealing and responsive designs. I'm exploring different layout techniques like Flexbox and Grid, and I'm keen on mastering responsive design principles for optimal viewing across various devices.  
    
-<br/>
-
- #### <u>My Goals and Aspirations</u>
-
-My short-term goals include:
-
-*   Mastering core front-end technologies (HTML, CSS, and JavaScript).
-*   Building a portfolio of diverse and impressive projects.
-*   Gaining practical experience through freelance work or internships.  
-
 <br/>
 
 > _"I'm a firm believer in continuous learning and I’m always eager to explore new technologies and best practices."_
