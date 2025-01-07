@@ -1,3 +1,5 @@
+![Remote-Webcreation Logo](./pictures/Logo_light.png)
+
 # Welcome to remote-webcreation  
 
 > ###### Hi there! I'm Mandy, a passionate aspiring web developer and the face behind remote-webcreation.  
