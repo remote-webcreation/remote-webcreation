@@ -8,8 +8,4 @@
 
 ### My Journey into Web Development  
 
-About three months ago, I embarked on an intensive web development training program. This experience is incredibly rewarding, fueling my already strong desire to learn and grow in this dynamic field.   
-
->I'm a firm believer in continuous learning and I’m always eager to explore new technologies and best practices.
-
-
+> _"I'm a firm believer in continuous learning and I’m always eager to explore new technologies and best practices."_
