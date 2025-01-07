@@ -2,13 +2,16 @@
 
 > ###### Hi there! I'm Mandy, a passionate aspiring web developer and the face behind remote-webcreation.  
 
-[Visit my GitHub Profile >](https://github.com/remote-webcreation)
-
 ---
+[Visit my GitHub Profile >](https://github.com/remote-webcreation)  
 
-**I'm on an exciting journey to build beautiful and functional websites, and I'm thrilled to share my progress with you.**
+**I'm on an exciting journey to build beautiful and functional websites, and I'm thrilled to share my progress with you.**  
+
+<br/>
 
 ## My Journey into Web Development  
+
+<br/>
 
  #### <u>Current Skillset and Focus</u> ️
 
