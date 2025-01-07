@@ -15,6 +15,18 @@
 My current focus is on building a solid foundation in front-end development. I've been working extensively with:
 
 *   **HTML:** Crafting the structure and content of web pages. I'm comfortable using semantic HTML5 elements to create accessible and well-organized layouts.
-*   **CSS:** Styling web pages to create visually appealing and responsive designs. I'm exploring different layout techniques like Flexbox and Grid, and I'm keen on mastering responsive design principles for optimal viewing across various devices.
+*   **CSS:** Styling web pages to create visually appealing and responsive designs. I'm exploring different layout techniques like Flexbox and Grid, and I'm keen on mastering responsive design principles for optimal viewing across various devices.  
+   
+<br/>
+
+ #### <u>My Goals and Aspirations</u>
+
+My short-term goals include:
+
+*   Mastering core front-end technologies (HTML, CSS, and JavaScript).
+*   Building a portfolio of diverse and impressive projects.
+*   Gaining practical experience through freelance work or internships.  
+
+<br/>
 
 > _"I'm a firm believer in continuous learning and I’m always eager to explore new technologies and best practices."_
