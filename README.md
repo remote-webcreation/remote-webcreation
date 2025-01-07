@@ -8,8 +8,11 @@
 
 ## My Journey into Web Development  
 
-### Current Skillset and Focus ️
+ #### <u> Current Skillset and Focus</u> ️
 
 My current focus is on building a solid foundation in front-end development. I've been working extensively with:
 
+*   **HTML:** Crafting the structure and content of web pages. I'm comfortable using semantic HTML5 elements to create accessible and well-organized layouts.
 
+
+> _"I'm a firm believer in continuous learning and I’m always eager to explore new technologies and best practices."_
