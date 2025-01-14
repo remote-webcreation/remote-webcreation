@@ -4,11 +4,15 @@
 
 ## Hi there and Welcome, I'm Mandy!
 
-##### A Web dev student thrilled to share my progress with you.   
+##### A Web dev student thrilled to share my progress with you.  
 
-### My current focus: 
+### My current focus:  
 
-##### Exploring front-end development and building a solid foundation in HTML, CSS and JavaScript.
+<p><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />  
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />  
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /></p>
+
+<p>Currently exploring and practicing front-end development. Building a solid foundation in HTML, CSS and JavaScript.</p>
 
 ---
 
@@ -17,10 +21,14 @@
 
 <br/>
 
-+ 📨 via E-Mail: [mandy.jendroska@yahoo.de](mailto:mandy.jendroska@yahoo.de)
+📨 E-Mail: [mandy.jendroska@yahoo.de](mailto:mandy.jendroska@yahoo.de)
 
-+ Linkedin: [Remote-webcreation](www.linkedin.com/in/remote-webcreation)
+<a href="https://www.linkedin.com/in/remote-webcreation">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-+ Github: [Remote-webcreation](https://github.com/remote-webcreation)
+<a href="https://github.com/remote-webcreation">
+    <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 
 <!-- <p align="right"><a href="#Hi-there-and-Welcome,-I'm-Mandy!">back to top ⬆️</a></p> -->
