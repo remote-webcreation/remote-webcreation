@@ -2,11 +2,9 @@
 
 ## Hi there and Welcome, I'm Mandy!
 
-###### A Web dev student thrilled to share my progress with you.   
+##### A Web dev student thrilled to share my progress with you.   
 
----
-
-#### My current focus: 
+### My current focus: 
 
 ##### Exploring front-end development and building a solid foundation in HTML, CSS and JavaScript.
 
