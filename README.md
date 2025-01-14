@@ -4,20 +4,15 @@
 
 ## Hi there and Welcome, I'm Mandy!
 
-##### A Web dev student thrilled to share my progress with you.   
+##### A Web dev student thrilled to share my progress with you.  
 
-<p align='center'>
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+### My current focus:  
 
-</p>
+<p><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />  
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />  
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /></p>
 
-![blank template](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-![blank template](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-
-### My current focus: 
-
-##### Exploring front-end development and building a solid foundation in HTML, CSS and JavaScript.
+<p>Currently exploring and practicing front-end development. Building a solid foundation in HTML, CSS and JavaScript.</p>
 
 ---
 
