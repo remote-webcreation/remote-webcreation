@@ -1,3 +1,5 @@
+![Typing SVG](./pictures/Logo_light.png)
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&letterSpacing=&pause=1000&color=939CC7&background=FFFCFC00&width=435&lines=Remote-WebCREATION)](https://git.io/typing-svg)
 
 ## Hi there and Welcome, I'm Mandy!
@@ -21,4 +23,4 @@
 
 + Github: [Remote-webcreation](https://github.com/remote-webcreation)
 
-<p align="right"><a href="#Hi-there-and-Welcome,-I'm-Mandy!">back to top ⬆️</a></p>
+<!-- <p align="right"><a href="#Hi-there-and-Welcome,-I'm-Mandy!">back to top ⬆️</a></p> -->
