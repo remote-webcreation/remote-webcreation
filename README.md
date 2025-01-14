@@ -2,17 +2,23 @@
 
 ## Hi there and Welcome, I'm Mandy!
 
----
-
-#### A Web dev student thrilled to share my progress with you.   
-
-##### My current focus is on building a solid foundation in front-end development:
-
-*   **HTML:** Crafting the structure and content of web pages. Practising accessible and well-organized layouts.
-*   **CSS:** Styling web pages to create visually appealing and responsive designs.
+###### A Web dev student thrilled to share my progress with you.   
 
 ---
 
-> _"I'm a firm believer in continuous learning and I’m always eager to explore innovative technologies and best practices."_
+#### My current focus: 
+
+##### Exploring front-end development and building a solid foundation in HTML, CSS and JavaScript.
+
+---
+
+<details>
+    <summary>Contact me</summary>
+
+<br/>
+
+Reach me via 📨 email: [mandy.jendroska@yahoo.de](mailto:mandy.jendroska@yahoo.de)
+
+Get in touch via Github: [Remote-webcreation](https://github.com/remote-webcreation)
 
 <p align="right"><a href="#Hi-there-and-Welcome,-I'm-Mandy!">back to top ⬆️</a></p>
