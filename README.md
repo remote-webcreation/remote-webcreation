@@ -15,8 +15,10 @@
 
 <br/>
 
-Reach me via 📨 email: [mandy.jendroska@yahoo.de](mailto:mandy.jendroska@yahoo.de)
++ 📨 via E-Mail: [mandy.jendroska@yahoo.de](mailto:mandy.jendroska@yahoo.de)
 
-Get in touch via Github: [Remote-webcreation](https://github.com/remote-webcreation)
++ Linkedin: [Remote-webcreation](www.linkedin.com/in/remote-webcreation)
+
++ Github: [Remote-webcreation](https://github.com/remote-webcreation)
 
 <p align="right"><a href="#Hi-there-and-Welcome,-I'm-Mandy!">back to top ⬆️</a></p>
