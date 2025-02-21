@@ -1,8 +1,5 @@
-![Typing SVG](./pictures/Logo_light.png)
-
+## Welcome, I'm Mandy The Face Behind
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&letterSpacing=&pause=1000&color=939CC7&background=FFFCFC00&width=435&lines=Remote-WebCREATION)](https://git.io/typing-svg)
-
-## Hi there and Welcome, I'm Mandy!
 
 ##### A Web dev student thrilled to share my progress with you.  
 
