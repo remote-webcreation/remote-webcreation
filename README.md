@@ -1,12 +1,11 @@
-### Welcome, my name is Mandy.
+### Welcome, my name is Mandy.   
 
-## I'm Junior Fullstack Software-Developer   
-
+## I'm Junior Fullstack Software-Developer
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&letterSpacing=&pause=1000&color=939CC7&background=FFFCFC00&width=435&lines=Prime-WebCREATION)]
 
 #### My current focus:
 
-##### A curious, creative mind specialising in frontend, App development & UI/UX Design.
+##### Specialising in frontend, AI & UI/UX Design.
 
 <p><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />  
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />  
