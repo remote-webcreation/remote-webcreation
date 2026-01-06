@@ -1,7 +1,7 @@
 ### Welcome, my name is Mandy.
 
 ## I'm Junior Fullstack Software-Developer   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&letterSpacing=&pause=1000&color=939CC7&background=FFFCFC00&width=435&lines=Prime-WebCREATION)](https://git.io/typing-svg)
+## My Brand: [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&letterSpacing=&pause=1000&color=939CC7&background=FFFCFC00&width=435&lines=Prime-WebCREATION)](https://git.io/typing-svg)
 
 #### My current focus:
 
