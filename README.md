@@ -18,7 +18,7 @@
 
 📨 E-Mail: [mandy.jendroska@yahoo.de](mailto:mandy.jendroska@yahoo.de)
 
-<a href="https://www.linkedin.com/in/remote-webcreation">
+<a href="https://de.linkedin.com/in/mandy-jendroska">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>  
 
